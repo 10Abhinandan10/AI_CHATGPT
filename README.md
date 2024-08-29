@@ -1,4 +1,4 @@
-# AI_CHATGPT
+# AI_CHATGPT || PROJECT VIDEO LINK (https://www.youtube.com/watch?v=viSljOywAz8) 
 Interactive AI-powered application using React, Express.js, MongoDB, Google Gemini AI, and Clerk for user authentication. Features include text and image search with history tracking, powered by ImageKit.io.
 
 Here's the updated summary of the project:
