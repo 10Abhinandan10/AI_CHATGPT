@@ -17,3 +17,6 @@ Tech Stack: Express.js, MongoDB
 Image Search: Users can perform image searches, with image management powered by ImageKit.io.
 
 Tech Stack: React, Google Gemini AI, ImageKit.io
+
+Contributing
+Contributions to the project are welcome! To contribute, fork the repository and create a new branch for your changes. Once you have made your changes, create a pull request to merge your branch into the main repository.
